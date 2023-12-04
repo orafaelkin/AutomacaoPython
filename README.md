@@ -5,4 +5,7 @@
 coleta dados da WEB e inseri em um Excel e faz a contabilidade
 
 >Organizador<
-organiza arquivos dentro da pasta por tipo de extensão 
+organiza arquivos dentro da pasta por tipo de extensão
+
+>MescladorPDF<
+uni dois ou mais PDFs em um único arquivo PDF
